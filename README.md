@@ -1,8 +1,11 @@
 ## Hey, welcome to my profile!
 
-I'm Luiz Lacerda, Software Engineer and working as a Full Stack Web Developer. Since childhood, I have been developing game servers, exchange student in my youth.
+Full-Stack Software Engineer with experience building production-ready web and mobile applications from the ground up. I specialize in React, TypeScript, Node.js, and scalable API design, with a strong focus on clean architecture, async workflows, and real-world product development.
 
-In 2022 I started in web development deeper where I took courses at Harvard School and at Trybe where I learned many softs and hard skills developing dozens of projects individually and collectively.
+I’ve led end-to-end development of SaaS platforms, including authentication, databases, real-time features, and cloud deployment. I enjoy working in early-stage environments where ownership, technical decision-making, and product impact matter.
+
+Currently open to full-stack roles where I can help design, build, and scale products from day one.
+
 ##
                                                                
 <div align="center">
